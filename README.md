@@ -1,6 +1,6 @@
 # Vehicle-Number-Plate-Recognition-Using-Machine-Learning
 
-#  This is era of automation and this should be done automatically. That’s why “Vehicle Number Plate Recognition Using Machine Learning”. This project will help to recognize number plate of vehicle by recognizing characters and number present on number plate of vehicle. 
+##  This is era of automation and this should be done automatically. That’s why “Vehicle Number Plate Recognition Using Machine Learning”. This project will help to recognize number plate of vehicle by recognizing characters and number present on number plate of vehicle. 
 
 # There are three stages in recognizing number plate
 ## 1. License Plate Detection: This is the first and probably the most important stage of the system. It is at this stage that the position of the license plate is determined. The input at this stage is an image of the vehicle and the output is the license plate.
